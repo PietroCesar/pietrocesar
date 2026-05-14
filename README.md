@@ -5,7 +5,7 @@
 
 🎓 Estudante do SENAI, atualmente cursando Desenvolvimento de Sistemas.
 
-💻 Tenho interesse em tecnologia, programação e resolução de problemas, buscando constantemente aprimorar minhas habilidades no desenvolvimento de software.
+💻 Tenho interesse em tecnologia, programação e resolução de problemas, buscando constantemente aprimorar minhas habilidades no desenvolvimento de sistemas.
 
 🚀 Durante o curso, estou adquirindo conhecimentos em:
 
