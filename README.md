@@ -25,6 +25,6 @@ Versionamento com Git e GitHub
 
 <div>
 
-<img align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXR4NXRkbWJwbDBkang0YmEwczY1OGs5cnc2c3dxZGxyM2wycXpudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iom6ULT1EUMdYTxa4J/giphy.gif">
+<img align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXpsb3p2Z3h2dmNpcWYxcjg4b3hudjZ3bGlvNWp6MTAzaXpnYnc5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FLFXfFTJs0RNtvU2SZ/giphy.gif">
   
 </div>
